@@ -6,3 +6,6 @@ var lastUserName = names[4];
 var lastUserAge = ages[4];
 var middleUserName = names[2];
 var middleUserAge = ages[2];
+names.push["Clayt"];
+ages.push[40];
+let last_user_age = ages.pop[5];
